@@ -1,18 +1,21 @@
-#  Go Lang Introdução
-Este projeto foi criado como um meio de entender e aprofundar meus conhecimentos na linguagem de programação Go. Aqui você encontrará exemplos básicos e passo a passo como implementar funções básicas, incluindo, mas não se limitando a, declaração de variáveis, laços de repetição e condicionais.
+# Go Lang Introdução
 
-## Como usar
+[Read this page in portuguese](https://github.com/elvisthermo/Go-Lang-Introducao.README-pt.md)
 
-Para usar o código, faça o download do projeto e leia os códigos-fonte comentados. Você pode usar as ferramentas disponíveis para compilar e executar os arquivos .go.
+This project was created as a means of understanding and deepening my knowledge of the Go programming language. Here you will find basic examples and step-by-step instructions on how to implement basic functions, including but not limited to, variable declaration, loops, and conditionals.
+
+## How to use
+
+To use the code, download the project and read the commented source code. You can use the available tools to compile and run the .go files.
 
 ```
-go run 'nome arquivo'
+go run 'file name'
 ```
 
-## Contribuindo
+## Contributing
 
-Sinta-se à vontade para abrir pull requests se você tiver algum código para contribuir ou se quiser contribuir com comentários e sugestões.
+Feel free to open pull requests if you have any code to contribute or if you want to contribute with comments and suggestions.
 
-## Licença
+## License
 
-Este projeto está disponível sob a Licença MIT. Veja o arquivo LICENSE para mais informações.
+This project is available under the MIT License. See the LICENSE file for more information.
