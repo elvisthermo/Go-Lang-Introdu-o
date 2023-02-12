@@ -1,6 +1,6 @@
 # Go Lang Introdução
 
-[Read this page in portuguese](https://github.com/elvisthermo/Go-Lang-Introducao.README-pt.md)
+[Read this page in portuguese](https://github.com/elvisthermo/Go-Lang-Introducao/blob/main/README-pt.md)
 
 This project was created as a means of understanding and deepening my knowledge of the Go programming language. Here you will find basic examples and step-by-step instructions on how to implement basic functions, including but not limited to, variable declaration, loops, and conditionals.
 
