@@ -1,6 +1,6 @@
 # Go Lang Introdução
 
-[Read this page in English](https://github.com/elvisthermo/Go-Lang-Introducao.README.md)
+[Read this page in English](https://github.com/elvisthermo/Go-Lang-Introducao)
 
 Este projeto foi criado como um meio de entender e aprofundar meus conhecimentos na linguagem de programação Go. Aqui você encontrará exemplos básicos e passo a passo como implementar funções básicas, incluindo, mas não se limitando a, declaração de variáveis, laços de repetição e condicionais.
 
